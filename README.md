@@ -1,5 +1,5 @@
-# fikira
-A flutter flashcards app that swipe on cards like tinder!
+# fikira flashcards
+A flutter flashcards app that swipe on cards like tinder! 
 
 Spaced repetition is proven to be better for recall than other methods. 
 
