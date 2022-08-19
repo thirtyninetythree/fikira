@@ -1,6 +1,6 @@
 # fikira flashcards
 
-Swipe left if you remember, right if you don't. Life is so simple, why do we make it so hard? 
+Swipe right if you remember, left if you don't. Life is so simple, why do we make it so hard? 
 A flutter flashcards app that swipe on cards like tinder! 
 
 Spaced repetition is proven to be better for recall than other methods. 
