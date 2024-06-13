@@ -1,9 +1,9 @@
-# fikira flashcards
+# Fikira flashcards
 
 Swipe right if you remember, left if you don't. Life is so simple, why do we make it so hard? 
 A flutter flashcards app that swipe on cards like tinder! 
 
-Spaced repetition is proven to be better for recall than other methods. Uses a spaced repetition algorithm to show cards on an interval based on recall. It learns to show the harder cards more frequently. 
+Spaced repetition is proven to be better for recall than other methods. Fikira uses a spaced repetition algorithm to show cards on an interval based on recall. It learns to show the harder cards more frequently, ensuring you master the material effectively.
 
 ![fikira](https://user-images.githubusercontent.com/98053458/212482499-88b21ddf-d729-4098-b5f3-9c341a5570f8.png)
 
